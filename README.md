@@ -23,3 +23,37 @@ return:
 	"VALIDATE": "N"
 }
 ```
+
+### To install the project
+
+Requirements: 
+- Python
+
+ To clone the project:
+
+```shell
+git clone 
+```
+
+To create a virtual environment
+
+```shell
+python -m venv env
+```
+
+Start the virtual environment
+
+```shell
+.\env\Scripts\activate
+```
+
+To install dependencies
+
+```shell
+pip install -r requirements.txt  
+```
+
+Start the project
+```
+python server.py
+```

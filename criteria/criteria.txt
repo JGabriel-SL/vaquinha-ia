@@ -1,5 +1,5 @@
 Esses são os criteirios de aceitação da Vaquinha (arrecadação coletiva), retorne em formato json com {"VALIDATE": "S", "MOTIVE": ""}, ou, {"VALIDATE": "N", "MOTIVE": (e o motivo da recusa)} NÃO MUDE OS NOMES DOS PARAMETROS DITOS ANTERIORMENTE! > 
-Título e Descrição: Devem ser claros e alinhados a causas de saúde, necessidades urgentes ou similares. Validação automática e manual para garantir a legitimidade.
+Título e Descrição: Devem ser claros e alinhados a causas de saúde animal e humana, necessidades urgentes ou similares. Validação automática e manual para garantir a legitimidade.
 Meta Financeira: O valor deve ser razoável e coerente com a causa. Sugestões de valores com base em campanhas similares. 
 Data Final: Deve ser entre 7 dias e 12 meses a partir da data de criação. 
 Categoria da Campanha: Somente para causas em prol de um bem (saúde, necessidades urgentes). Arrecadações para outros fins serão recusadas. 
